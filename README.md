@@ -69,15 +69,3 @@ To set up the Gmail API for this project:
 2. Create an app password for Gmail by following this tutorial:
    https://www.youtube.com/watch?v=hXiPshHn9Pw
 
-## Run tests
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
