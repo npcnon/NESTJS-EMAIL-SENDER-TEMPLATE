@@ -69,3 +69,15 @@ To set up the Gmail API for this project:
 2. Create an app password for Gmail by following this tutorial:
    https://www.youtube.com/watch?v=hXiPshHn9Pw
 
+## Example Usage
+
+After running the application, you can test it with the following example:
+
+### Example POST Request:
+
+<img src="./image/image1.png" alt="Example POST Request" width="600" />
+
+### Results(not found because the recipient was @example.com):
+
+<img src="./image/image2.png" alt="Example POST Request" width="600" />
+
